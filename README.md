@@ -13,10 +13,6 @@ Across laboratory analysis, audio DSP, and Obsidian automation, most of my code 
   <img src="https://img.shields.io/badge/Obsidian-0d1117?style=flat-square&logo=obsidian&logoColor=55d6be" alt="Obsidian">
 </p>
 
-## Negative Space
-
-**[Negative Space](https://github.com/glebo309/negative-space)** is where I publish smaller research projects from any field, including negative and inconclusive results.
-
 ## Biocatalysis
 
 My PhD work is in enzyme discovery, enzyme immobilization, and flow biocatalysis.
@@ -82,6 +78,10 @@ I build Max/MSP and Max for Live instruments under Glecko. **[285](https://gleck
 My work runs through an Obsidian vault connected to coding agents, retrieval, a knowledge graph, and daily automations. **[claude-setup](https://github.com/glebo309/claude-setup)** contains an earlier portable version of that system.
 
 I also built **[Spotify Transcript](https://github.com/glebo309/spotify-transcript)** to get Spotify's own podcast transcripts into that workflow without retranscribing them.
+
+## Research archive
+
+**[Negative Space](https://github.com/glebo309/negative-space)** is my public archive for smaller research projects from any field, including negative and inconclusive results.
 
 
 <p align="center">
