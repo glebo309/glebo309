@@ -13,11 +13,13 @@ Across laboratory analysis, audio DSP, and Obsidian automation, most of my code 
   <img src="https://img.shields.io/badge/Obsidian-0d1117?style=flat-square&logo=obsidian&logoColor=55d6be" alt="Obsidian">
 </p>
 
+## Negative Space
+
+**[Negative Space](https://github.com/glebo309/negative-space)** is where I publish smaller research projects from any field, including negative and inconclusive results.
+
 ## Biocatalysis
 
 My PhD work is in enzyme discovery, enzyme immobilization, and flow biocatalysis.
-
-**[Negative Space](https://github.com/glebo309/negative-space)** collects my smaller research projects, including negative and inconclusive results that would otherwise remain unpublished.
 
 ## Scientific software
 
