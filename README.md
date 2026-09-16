@@ -81,7 +81,7 @@ I also built **[Spotify Transcript](https://github.com/glebo309/spotify-transcri
 
 ## Research archive
 
-**[Negative Space](https://github.com/glebo309/negative-space)** is my public archive for smaller research projects from any field, including negative and inconclusive results.
+**[Negative Space](https://github.com/glebo309/negative-space)** is where I share negative, inconclusive, and otherwise unpublishable research results from projects of any field or scale, together with what I learned from them.
 
 
 <p align="center">
