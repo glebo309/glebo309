@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.png" alt="Glenn Bojanov | Biocatalysis, scientific software, creative coding, knowledge systems" width="100%">
+  <img src="assets/header-4x.png" alt="Glenn Bojanov | Biocatalysis, scientific software, creative coding, knowledge systems" width="100%">
 </p>
 
 I work in biocatalysis, scientific software, creative coding, and knowledge systems.
@@ -16,6 +16,8 @@ Across laboratory analysis, audio DSP, and Obsidian automation, most of my code 
 ## Biocatalysis
 
 My PhD work is in enzyme discovery, enzyme immobilization, and flow biocatalysis.
+
+**[Negative Space](https://github.com/glebo309/negative-space)** collects my smaller research projects, including negative and inconclusive results that would otherwise remain unpublished.
 
 ## Scientific software
 
