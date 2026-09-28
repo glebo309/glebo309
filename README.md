@@ -20,6 +20,7 @@ My PhD work is in enzyme discovery, enzyme immobilization, and flow biocatalysis
 ## Scientific software
 
 - **[ChemDraw MCP for macOS](https://github.com/glebo309/chemdraw-mcp-macos):** native, editable chemical drawings from a terminal or MCP client
+- **[PASCO InFlow](https://github.com/glebo309/pasco-inflow):** records full calibrated UV-Vis spectra over time from PASCO Spectrometry during flow experiments
 - **GeckoPlotter:** HPLC and LC-MS analysis
 - **DarkzymeScope** *(manuscript in preparation)*
 - **[Bayesian Reaction Optimizer](https://github.com/glebo309/bayesian-reaction-optimizer):** choosing useful experiments from limited data
