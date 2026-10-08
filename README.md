@@ -66,8 +66,7 @@ I build Max/MSP and Max for Live instruments under Glecko. **[285](https://gleck
 - **285:** a sixty-four-step sequencer with independent lanes, probability, conditions, controlled corruption, snapshots, and external modulation
 - **CHANCE:** a MIDI probability gate whose value can be changed on every step
 - **LFO:** one modulation source mapped independently to eight Live parameters, either shared or phase-scattered
-- **OVERPASS:** routes Analog Rytm controls and decoded parameter-lock lanes into Live parameters or OSC
-- **BETTERBRIDGE:** maps Overbridge parameters into multiple Live destinations with shaping and per-route behavior
+- **[Betterbridge](https://github.com/glebo309/Betterbridge)** *(early development):* routes Analog Rytm controls and parameter locks into Live parameters or OSC, with per-route shaping. Tested on Analog Rytm MKI; Analog Four support is planned.
 - **VOID:** detects the space after a kick and turns that absence into slow modulation envelopes
 - **FEEDBACK SEND:** sends an independent stereo copy to a chosen Live routing destination
 - **FEEDBACK LISTEN:** receives a feedback path, measures its energy, and exposes that measurement as modulation
