@@ -19,6 +19,7 @@ My PhD work is in enzyme discovery, enzyme immobilization, and flow biocatalysis
 
 ## Scientific software
 
+- **[Paper Finder](https://github.com/glebo309/paper-finder):** finding academic papers and books through browser, desktop, and command-line interfaces
 - **[Brunschwig Search](https://github.com/glebo309/brunschwig-search):** a small CLI for searching chemicals by CAS and comparing the pack quantities and cost needed for an experiment
 - **[ChemDraw MCP for macOS](https://github.com/glebo309/chemdraw-mcp-macos):** native, editable chemical drawings from a terminal or MCP client
 - **[PASCO InFlow](https://github.com/glebo309/pasco-inflow):** records full calibrated UV-Vis spectra over time from PASCO Spectrometry during flow experiments
