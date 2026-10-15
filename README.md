@@ -23,11 +23,11 @@ My PhD work is in enzyme discovery, enzyme immobilization, and flow biocatalysis
 - **[Brunschwig Search](https://github.com/glebo309/brunschwig-search):** a small CLI for searching chemicals by CAS and comparing the pack quantities and cost needed for an experiment
 - **[ChemDraw MCP for macOS](https://github.com/glebo309/chemdraw-mcp-macos):** native, editable chemical drawings from a terminal or MCP client
 - **[PASCO InFlow](https://github.com/glebo309/pasco-inflow):** records full calibrated UV-Vis spectra over time from PASCO Spectrometry during flow experiments
-- **GeckoPlotter:** HPLC and LC-MS analysis
+- **[GeckoPlotter](https://github.com/glebo309/GeckoPlotter):** a local workstation for HPLC, LC-MS, and PDA data, with peak integration, calibration, editable figures, and FAIR-data packages
 - **DarkzymeScope** *(manuscript in preparation)*
 - **[Bayesian Reaction Optimizer](https://github.com/glebo309/bayesian-reaction-optimizer):** choosing useful experiments from limited data
 
-GeckoPlotter and DarkzymeScope will appear here when they are ready for public release.
+DarkzymeScope will appear here when it is ready for public release.
 
 ## Creative coding
 
