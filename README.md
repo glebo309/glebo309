@@ -83,6 +83,8 @@ My work runs through an Obsidian vault connected to coding agents, retrieval, a 
 
 I also built **[Spotify Transcript](https://github.com/glebo309/spotify-transcript)** to get Spotify's own podcast transcripts into that workflow without retranscribing them.
 
+**[OSHW](https://glecko.xyz/oshw/)** is a browsable catalogue of programmable open hardware, with software access notes, source links, and ideas for repurposing.
+
 ## Research archive
 
 **[Negative Space](https://github.com/glebo309/negative-space)** is where I share negative, inconclusive, and otherwise unpublishable research results from projects of any field or scale, together with what I learned from them.
