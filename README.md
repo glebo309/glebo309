@@ -77,6 +77,8 @@ I build Max/MSP and Max for Live instruments under Glecko. **[285](https://gleck
 
 </details>
 
+**[BORIS Schweißtechnik](https://glecko.xyz/boris/)** is a multilingual welding service website with an interactive 3D [torch parts atlas](https://glecko.xyz/boris/teile/).
+
 ## Knowledge systems
 
 My work runs through an Obsidian vault connected to coding agents, retrieval, a knowledge graph, and daily automations. **[claude-setup](https://github.com/glebo309/claude-setup)** contains an earlier portable version of that system.
