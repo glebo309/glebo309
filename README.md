@@ -24,10 +24,24 @@ My PhD work is in enzyme discovery, enzyme immobilization, and flow biocatalysis
 - **[ChemDraw MCP for macOS](https://github.com/glebo309/chemdraw-mcp-macos):** native, editable chemical drawings from a terminal or MCP client
 - **[PASCO InFlow](https://github.com/glebo309/pasco-inflow):** records full calibrated UV-Vis spectra over time from PASCO Spectrometry during flow experiments
 - **[GeckoPlotter](https://github.com/glebo309/GeckoPlotter):** a local workstation for HPLC, LC-MS, and PDA data, with peak integration, calibration, editable figures, and FAIR-data packages
+- **[Confocal Viewer](https://github.com/glebo309/confocal-viewer):** opens Leica .lif confocal stacks in the browser, compares samples side by side with synced zoom and per-panel focus, and exports figures
 - **DarkzymeScope** *(manuscript in preparation)*
 - **[Bayesian Reaction Optimizer](https://github.com/glebo309/bayesian-reaction-optimizer):** choosing useful experiments from limited data
 
 DarkzymeScope will appear here when it is ready for public release.
+
+<details>
+<summary><strong>Earlier lab tools</strong></summary>
+
+- **[Enzyme Kinetics Tools](https://github.com/glebo309/enzyme-kinetics-tools):** Michaelis-Menten fitting, from a simple fitter to a multi-model Bayesian fitter with ODE integration
+- **[DoE Analysis](https://github.com/glebo309/doe-analysis):** full factorial, central composite, and Box-Behnken designs with response surface regression
+- **[Spectral Integrator](https://github.com/glebo309/spectral-integrator):** peak areas between wavelength bounds from raw spectrometer output, with baseline correction
+- **[Protein Surface Analyzer](https://github.com/glebo309/protein-surface-analyzer):** solvent-accessible surface area, residue classification, and hydrophobicity mapping with FreeSASA
+- **[Plasmid Database](https://github.com/glebo309/plasmid-database):** a plasmid collection manager with sequence handling, search, and Nagoya Protocol compliance tracking
+- **[Book Reconstructor](https://github.com/glebo309/book-reconstructor):** rebuilds typeset PDFs from Google Play Books screenshots
+- **[AnyPlot](https://github.com/glebo309/anyplot-archive)** and **[GeckoPlotter v1](https://github.com/glebo309/geckoplotter-streamlit)** *(archived):* the earlier chromatogram viewers that became GeckoPlotter
+
+</details>
 
 ## Creative coding
 
