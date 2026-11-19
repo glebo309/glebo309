@@ -19,27 +19,21 @@ My PhD work is in enzyme discovery, enzyme immobilization, and flow biocatalysis
 
 ## Scientific software
 
-- **[Paper Finder](https://github.com/glebo309/paper-finder):** finding academic papers and books through browser, desktop, and command-line interfaces
-- **[Brunschwig Search](https://github.com/glebo309/brunschwig-search):** a small CLI for searching chemicals by CAS and comparing the pack quantities and cost needed for an experiment
-- **[ChemDraw MCP for macOS](https://github.com/glebo309/chemdraw-mcp-macos):** native, editable chemical drawings from a terminal or MCP client
-- **[PASCO InFlow](https://github.com/glebo309/pasco-inflow):** records full calibrated UV-Vis spectra over time from PASCO Spectrometry during flow experiments
 - **[GeckoPlotter](https://github.com/glebo309/GeckoPlotter):** a local workstation for HPLC, LC-MS, and PDA data, with peak integration, calibration, editable figures, and FAIR-data packages. It grew out of **[AnyPlot](https://github.com/glebo309/anyplot-archive)** and a **[Streamlit version](https://github.com/glebo309/geckoplotter-streamlit)**, both archived
-- **[Confocal Viewer](https://github.com/glebo309/confocal-viewer):** opens Leica .lif confocal stacks in the browser, compares samples side by side with synced zoom and per-panel focus, and exports figures
 - **DarkzymeScope** *(manuscript in preparation)*
 - **[Bayesian Reaction Optimizer](https://github.com/glebo309/bayesian-reaction-optimizer):** choosing useful experiments from limited data
-
-DarkzymeScope will appear here when it is ready for public release.
-
-<details>
-<summary><strong>Smaller lab tools</strong></summary>
-
+- **[PASCO InFlow](https://github.com/glebo309/pasco-inflow):** records full calibrated UV-Vis spectra over time from PASCO Spectrometry during flow experiments
+- **[Confocal Viewer](https://github.com/glebo309/confocal-viewer):** opens Leica .lif confocal stacks in the browser, compares samples side by side with synced zoom and per-panel focus, and exports figures
 - **[Enzyme Kinetics Tools](https://github.com/glebo309/enzyme-kinetics-tools):** Michaelis-Menten fitting, from a simple fitter to a multi-model Bayesian fitter with ODE integration
 - **[DoE Analysis](https://github.com/glebo309/doe-analysis):** full factorial, central composite, and Box-Behnken designs with response surface regression
+- **[Plasmid Database](https://github.com/glebo309/plasmid-database):** a plasmid collection manager with sequence handling, search, and Nagoya Protocol compliance tracking
+- **[Paper Finder](https://github.com/glebo309/paper-finder):** finding academic papers and books through browser, desktop, and command-line interfaces
+- **[ChemDraw MCP for macOS](https://github.com/glebo309/chemdraw-mcp-macos):** native, editable chemical drawings from a terminal or MCP client
 - **[Spectral Integrator](https://github.com/glebo309/spectral-integrator):** peak areas between wavelength bounds from raw spectrometer output, with baseline correction
 - **[Protein Surface Analyzer](https://github.com/glebo309/protein-surface-analyzer):** solvent-accessible surface area, residue classification, and hydrophobicity mapping with FreeSASA
-- **[Plasmid Database](https://github.com/glebo309/plasmid-database):** a plasmid collection manager with sequence handling, search, and Nagoya Protocol compliance tracking
+- **[Brunschwig Search](https://github.com/glebo309/brunschwig-search):** a small CLI for searching chemicals by CAS and comparing the pack quantities and cost needed for an experiment
 
-</details>
+DarkzymeScope will appear here when it is ready for public release.
 
 ## Creative coding
 
